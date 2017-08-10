@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="help_instructions">Enter Two Numbers</string>
+    <string name="button">Button</string>
+    <string name="multiplication_sign">*</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="divide_sign">/</string>
+    <string name="the_result">The Result</string>
+</resources>
